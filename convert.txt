@@ -1,7 +1,0 @@
-ounce, gram ,28.0
-pound,ounce,16.0
-pound,kilogram,0.454
-pint,litre,0.568
-
-inch,centimetre,2.5
-mile, Inch, 63360.0
